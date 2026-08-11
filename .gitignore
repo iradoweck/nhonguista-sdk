@@ -3,3 +3,6 @@ dist/
 .env*.local
 npm-debug.log*
 pnpm-debug.log*
+
+.geminiignore
+.gitignore
