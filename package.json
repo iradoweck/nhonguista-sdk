@@ -1,6 +1,6 @@
 {
   "name": "@nhonguista/sdk",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "description": "Cliente SDK oficial para integração com a plataforma Nhonguista",
   "private": true,
   "main": "./dist/index.js",
