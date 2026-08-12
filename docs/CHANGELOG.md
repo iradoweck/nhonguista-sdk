@@ -6,6 +6,8 @@
 ### ✨ Adicionado
 - **Inicialização**: Criação do pacote SDK.
 - **Governança de IA**: Injeção das regras `.agent/AGENTS.md` e otimização de contexto `.geminiignore`.
+- **Licenciamento**: Adoção integral da licença de código aberto Apache License 2.0.
 
 ### 🔄 Alterado
 - **Integração de Workspace**: Dependência do `moz-utils` configurada via `workspace:*`.
+- **Documentação**: Atualização do `README.md` refletindo a transição de AGPL para Apache License 2.0.
