@@ -4,6 +4,7 @@
 > **Foco:** Inicialização do SDK e Integração de Workspaces.
 
 ### ✨ Adicionado
+- **Comunidade & Governança**: Adição de ficheiros CONTRIBUTING.md, SECURITY.md, CODE_OF_CONDUCT.md, VERSIONING.md e templates do GitHub.
 - **Inicialização**: Criação do pacote SDK.
 - **Governança de IA**: Injeção das regras `.agent/AGENTS.md` e otimização de contexto `.geminiignore`.
 - **Licenciamento**: Adoção integral da licença de código aberto Apache License 2.0.
